@@ -1,35 +1,51 @@
-# EST1-Unit3-HackerRank-Solutions
-MCA AI &amp; ML – Unit 3 Programming and Mathematics Practice
-SARVESH MURUGAN THIRUVENKATAMOORTHY · USN 26MCAR0053 · MCA (AI & ML), JAIN (Deemed-to-be University) 
-HackerRank profile: https://www.hackerrank.com/profile/sarvesh_26013012
+EST1-Unit3-HackerRank-Solutions
+Solutions to every problem in the HackerRank Practice for EST1 Coding Topics list for Unit 3: Programming Basics and Problems on Maths, organised by syllabus topic.
 
-Solutions to every problem in the HackerRank Practice for EST1 Coding Topics list for Unit 3: Programming Basics and Problems on Maths, organised by syllabus topic. Each file starts with a link to its HackerRank problem.
+Author: Sarvesh Murugan Thiruvenkatamoorthy
+USN: 26MCAR0053
+Course: MCA (AI & ML), Jain (Deemed-to-be University)
+HackerRank profile: sarvesh_26013012
 
-#	Topic	Problems
-1	Data types	Basic Data Types (C++), Java Datatypes
-2	Input / Output	Input and Output (C++), Java Stdin and Stdout I
-3	Operators	Arithmetic Operators, Compare the Triplets
-4	Decision making	Python If-Else, Conditional Statements (C++)
-5	Loops	Loops, For Loop (C++)
-6	Array	Simple Array Sum, Arrays - DS, Plus Minus
-7	2-D Array	2D Array - DS, Diagonal Difference
-8	String	CamelCase, Super Reduced String, Funny String, Pangrams
-9	Pointers	Pointer (C++), Pointers in C
-10	Functions	Functions (C++), Write a Function
-11	Structures	Structs (C++), Small Triangles, Large Triangles (C)
-12	Dynamic arrays	Dynamic Array, Variable Sized Arrays
-13	Prefix sums	Sherlock and Array, Array Manipulation
-14	Sliding window	Max Min, Deque-STL
-15	Bucketing	Counting Sort 1, Counting Sort 2, Fraudulent Activity Notifications
-16	Recursion	Recursive Digit Sum, The Power Sum, Davis' Staircase
-17	Time complexity	Time Complexity: Primality, Day 25: Running Time and Complexity
-18	GCD	Restaurant
-19	LCM	Between Two Sets
-20	Primality test	(see topic 17)
-21	Sieve	Project Euler #7, Project Euler #10
-22	Modular arithmetic	Summing the N Series, Power of Large Numbers
-23	Permutation & combination	Handshake, Matrix Tracing, nCr Table
-24	Pascal's triangle	Pascal's Triangle, nCr Table
-Status: all accepted on HackerRank except Pascal's Triangle, which HackerRank no longer accepts submissions for (its Functional Programming track was retired in Oct 2026). The solution is included in Python and Haskell and passes the sample test.
+About
+This repository contains accepted solutions to all HackerRank problems listed for EST1 Unit 3. Each solution file begins with a link to its corresponding HackerRank problem.
 
-Languages: Python 3, C, C++, Java.
+The problems cover programming fundamentals, arrays, strings, pointers, functions, data structures, recursion, algorithmic techniques, number theory, and combinatorics.
+
+Status
+- All listed HackerRank problems have been accepted.
+- **Pascal's Triangle** is the only exception.
+- HackerRank no longer accepts submissions for Pascal's Triangle because its Functional Programming track was retired in October 2026.
+- The Pascal's Triangle solution is included in Python and Haskell.
+- The included Pascal's Triangle solutions pass the sample test cases.
+
+Languages Used
+- Python 3
+- C
+- C++
+- Java
+
+- Topics Covered
+#Data types: Basic Data Types (C++), Java Datatypes
+#Input / Output: Input and Output (C++), Java Stdin and Stdout I
+#Operators: Arithmetic Operators, Compare the Triplets
+#Decision making: Python If-Else, Conditional Statements (C++)
+#Loops: Loops, For Loop (C++)
+#Array: Simple Array Sum, Arrays - DS, Plus Minus
+#2-D Array: 2D Array - DS, Diagonal Difference
+#String: CamelCase, Super Reduced String, Funny String, Pangrams
+#Pointers: Pointer (C++), Pointers in C
+#Functions: Functions (C++), Write a Function
+#Structures: Structs (C++), Small Triangles, Large Triangles (C)
+#Dynamic arrays: Dynamic Array, Variable Sized Arrays
+#Prefix sums: Sherlock and Array, Array Manipulation
+#Sliding window: Max Min, Deque-STL
+#Bucketing: Counting Sort 1, Counting Sort 2, Fraudulent Activity Notifications
+#Recursion: Recursive Digit Sum, The Power Sum, Davis' Staircase
+#Time complexity: Time Complexity: Primality, Day 25: Running Time and Complexity
+#GCD: Restaurant
+#LCM: Between Two Sets
+#Primality test: Covered in Time Complexity problems
+#Sieve: Project Euler #7, Project Euler #10
+#Modular arithmetic: Summing the N Series, Power of Large Numbers
+#Permutation & combination: Handshake, Matrix Tracing, nCr Table
+#Pascal's triangle: Pascal's Triangle, nCr Table
